@@ -1,0 +1,2 @@
+What is clone in github?
+Cloning a GitHub repository creates a local copy of the remote repo. This allows you to make all of your edits locally rather than directly in the source files of the origin repo. ... Once the installation is complete, you'll be ready to clone the GitHub repository.
